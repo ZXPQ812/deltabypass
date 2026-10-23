@@ -1,3 +1,8 @@
+# AI MADE!!!
+
+This READ-ME is made with AI if you don't wanna read then don't read it enjoy the website :)
+
+
 # DeltaBypass
 
 DeltaBypass is a web-based utility designed to bypass the Platoboost key system used by Delta. Instead of completing the tedious linkvertise tasks, waiting through timers, and dealing with ads just to get your Delta key, you can use this website to skip all of it and grab the key directly.
